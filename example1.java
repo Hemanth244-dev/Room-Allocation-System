@@ -14,7 +14,9 @@ class Student {
         this.gender = gender.toLowerCase();
     }
 }
-
+class student{
+    
+}
 class HostelManager {
 
 	private static final String FILE_NAME = "C:\\javaexamples\\hackathon\\hostel.txt";
